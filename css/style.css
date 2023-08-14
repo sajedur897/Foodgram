@@ -1,0 +1,89 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.fontf{
+    font-family:'Times New Roman', Times, serif;
+}
+
+.text-clr{
+    color: rgb(255, 251, 251);
+    font-size: 30px;
+}
+.theme{
+    background-size: cover;
+    min-height: 100vh;
+}
+.textbr{
+color: antiquewhite;
+}
+.btnclr{
+    color: rgb(232, 79, 79);
+}
+.textbig{
+    font-size: 60px;
+}
+.p-3{
+    padding: spacer !important;
+    
+}
+.sectionrds{
+    border-top-left-radius:  150px; ;
+}
+
+.themebg{
+    background-color: rgb(240, 245, 245);
+}
+.borderreadus{
+    border-radius: 50px;
+    
+    border-width: 10px;
+    
+}
+.imgsize img{
+    height: 250px;
+    width: 250px;
+}
+.bg-color{
+    color: rgb(246, 246, 229);
+}
+.mask-image{
+    width: 50%;
+}
+.mask{
+    width: 600px;
+    position: absolute;
+}
+.pizzabr{
+    position: relative;
+    left: 60px;
+    bottom: 25px;
+    height: 655px;
+    width: 640px;
+    border-radius: 600px;
+    border: 22px solid white;
+}
+.size-items{
+    width: 350px;
+}
+.bg-color-2{
+    background-color: rgb(241, 237, 237);
+}
+.mr-2{
+    width: 75px;
+    height: 75px;
+}
+.fontcolor{
+    color: rgb(189, 189, 189);
+}
+.bg-color-3{
+    background-color: rgb(255, 253, 253);
+}
+.bg-color-4{
+    background-color: aquamarine;
+}
+.brbtn{
+    border-bottom: 50px;
+}
